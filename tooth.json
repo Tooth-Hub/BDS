@@ -27,7 +27,7 @@
         {
             "type": "install",
             "commands": [
-                "echo y | .\\.lip\\tools\\bdsdown\\bdsdown.exe 1.19.61.01"
+                ".\\.lip\\tools\\bdsdown\\bdsdown.exe 1.19.61.01"
             ],
             "GOOS": "windows"
         }
