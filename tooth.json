@@ -1,7 +1,7 @@
 {
     "format_version": 1,
     "tooth": "github.com/Tooth-Hub/BDS",
-    "version": "1.19.61",
+    "version": "1.19.62",
     "dependencies": {
         "github.com/Tooth-Hub/BDSDownloader": [
             [
@@ -20,14 +20,14 @@
         {
             "type": "install",
             "commands": [
-                "./.lip/tools/bdsdown/bdsdown -y 1.19.61.01"
+                "./.lip/tools/bdsdown/bdsdown -y 1.19.62.01"
             ],
             "GOOS": "linux"
         },
         {
             "type": "install",
             "commands": [
-                ".\\.lip\\tools\\bdsdown\\bdsdown.exe -y 1.19.61.01"
+                ".\\.lip\\tools\\bdsdown\\bdsdown.exe -y 1.19.62.01"
             ],
             "GOOS": "windows"
         }
